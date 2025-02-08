@@ -1,2 +1,2 @@
-# testrepository
+# testrepo
 it is markdown file
